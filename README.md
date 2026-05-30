@@ -2,6 +2,22 @@
 
 A modern, interactive full-stack developer portfolio website built with cutting-edge web technologies. Features stunning animations, smooth scrolling, and responsive design across all devices.
 
+## 📸 Portfolio Preview
+
+### Hero Section
+![Portfolio Preview](https://via.placeholder.com/1200x630?text=Nhat+Minh+Portfolio)
+
+### Projects Showcase
+![Projects Preview](https://via.placeholder.com/1200x630?text=Projects+Showcase)
+
+### Tech Stack Display
+![Tech Stack Preview](https://via.placeholder.com/1200x630?text=Tech+Stack)
+
+### Full Page View
+![Full Page Preview](https://via.placeholder.com/1200x900?text=Full+Page+Preview)
+
+> 💡 **Note:** The above are placeholder images. Replace them in the `preview/` folder with your actual portfolio screenshots. Update the image URLs in this README once you add your real images.
+
 ## ✨ Features
 
 - 🎨 **Modern UI Design** - Sleek and professional design with gradient effects
@@ -239,12 +255,16 @@ npm run lint
 ## 🖼️ Preview Images
 
 The `preview/` folder contains sample images for documentation and social media sharing:
-- `hero-section.png` - Hero section preview
-- `projects-showcase.png` - Projects section preview
-- `tech-stack-preview.png` - Tech stack display
-- `full-page-preview.png` - Full page screenshot
+- `hero-section.svg` - Hero section preview (placeholder)
+- `projects-showcase.svg` - Projects section preview (placeholder)
+- `tech-stack-preview.svg` - Tech stack display (placeholder)
+- `full-page-preview.svg` - Full page screenshot (placeholder)
 
-*Note: Replace these with your actual project screenshots*
+**To replace these images:**
+1. Take screenshots of your actual portfolio
+2. Optimize them (recommended: 1200x630px for sections, 1200x900px for full page)
+3. Save them as PNG, JPG, or WebP in the `preview/` folder
+4. Update the image URLs in this README file
 
 ## 🚀 Deployment
 
